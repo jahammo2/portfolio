@@ -1,0 +1,69 @@
+@media screen and (max-width:750px) {
+
+/******************** MENU BAR *******************************/  
+
+header {
+  display: inline;
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul {
+  margin: 0 auto;
+}
+
+header h1 {
+  padding-top: 1em;
+}
+  
+/******************** TWO COLUMN LAYOUT WITH A PRIME NUMBER AMOUNT OF SITES *******************************/
+ 
+ .gallery li {
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 1em;
+ }
+
+ .wrapper {
+   width: 95%;
+ }
+
+ .gallery li:nth-child(1) {
+    margin-top: .9em;
+ }
+
+ .line {
+    width: 95%;
+ }
+
+/******************** CONTACT COLUMNS *******************************/  
+
+.contact-encompass {
+    display: normal;
+    margin: 3em auto 2.5em;
+}
+
+#primary,
+#secondary {
+    width: 24em;  
+    margin: 0 auto;
+}
+
+#primary {
+    margin-bottom: 3em;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
